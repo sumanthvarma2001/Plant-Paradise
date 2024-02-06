@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "loamy soil",
+    "price": 20,
+    "image": "images/Loamy-Soil.jpg"
+  },
+  {
+    "id": 2,
+    "name": "black soil",
+    "price": 30,
+    "image": "images/black soil.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "sandy soil",
+    "price": 15,
+    "image": "images/sandysoil.jpeg"
+  },
+
+  {
+    "id": 4,
+    "name": "chalky soil",
+    "price": 35,
+    "image": "images/chalky soil.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "clay soil",
+    "price": 25,
+    "image": "images/clay soil.jpeg"
+  },
+
+  {
+    "id": 6,
+    "name": "peaty soil",
+    "price": 30,
+    "image": "images/peatysoil.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "coco pit",
+    "price": 50,
+    "image": "images/coco pit.jpg"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "baskets",
+    "price": 60,
+    "image": "images/baskets.jpg"
+  },
+  {
+    "id": 2,
+    "name": "painted pots ",
+    "price": 80,
+    "image": "images/painted pots.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "pot",
+    "price": 15,
+    "image": "images/pot.jpeg"
+  },
+
+  {
+    "id": 4,
+    "name": "spray bottle",
+    "price": 35,
+    "image": "images/spray bottle.jpeg"
+  }
+]

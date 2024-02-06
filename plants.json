@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dracaena Compacta Plant",
+    "price": 20,
+    "image": "images/plant1.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "roses",
+    "price": 20,
+    "image": "images/plantroses.jpg"
+  },
+  {
+    "id": 3,
+    "name": "zz plant",
+    "price": 50,
+    "image": "images/zz.webp"
+  },
+  {
+    "id": 4,
+    "name": "money plant",
+    "price": 60,
+    "image": "images/Money Plant.png"
+  },
+  {
+    "id": 5,
+    "name": "cactus",
+    "price": 50,
+    "image": "images/cactus.jpg"
+  },
+  {
+    "id": 6,
+    "name": "sunflower",
+    "price": 25,
+    "image": "images/sunflower.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "daffodils",
+    "price": 40,
+    "image": "images/daffodils.webp.crdownload"
+  },
+  {
+    "id": 8,
+    "name": "hibiscuss",
+    "price": 60,
+    "image": "images/hibiscuss.jpg"
+  },
+  {
+    "id": 9,
+    "name": "ammobium_alatum",
+    "price": 30,
+    "image": "images/Ammobium_alatum.jpg"
+  }
+]
